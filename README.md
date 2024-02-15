@@ -12,3 +12,7 @@
 - 👨‍💻 All of my projects are available at [Github](Github)
 
 - 📫 How to reach me **Send me a mail on chidu10041978@gmail.com**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/chidananda-h-p-aa5b83229/" target="blank"><img align="center" alt="https://www.linkedin.com/in/chidananda-h-p-aa5b83229/" height="30" width="40" /></a>
+</p>
