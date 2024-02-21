@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulvd&label=Profile%20views&color=0e75b6&style=flat" alt="Chidanandha" /> </p>
 
-- 🔭 I’m currently working on a Company:Techisor
+- 🔭 I’m currently working on a  <p> Company:**Techisor** </p> 
                                   <p> Job Role: Manual and Automation Tester </p> 
                                  <p>  key Responsibilities: </p> 
                                     <p> 1.Test planning and Execution.</p>
