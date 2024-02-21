@@ -1,9 +1,21 @@
 <h1 align="center">Hi 👋, I'm Chidanandha</h1>
-<h3 align="center">A passionate Software Test Engineer</h3>
+<h3 align="center">A Passionate Software Test Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulvd&label=Profile%20views&color=0e75b6&style=flat" alt="Chidanandha" /> </p>
 
-- 🔭 I’m currently working on **Automation Framework**
+- 🔭 I’m currently working on a Company:Techisor
+                                 Job Role: Manual and Automation Tester
+                                 key Responsibilities:
+                                     1.Test planning and Execution.
+                                     2.Develop and execute test plans, test cases, and test scripts to
+                                       ensure the functionality, reliability.
+                                     3.Conduct both manual and automated testing, identifying and
+                                       documenting defects and inconsistencies.
+                                     4.Work closely with development teams, product managers, and
+                                       other quality members to understand product requirements and
+                                       design effective test strategies.
+                                     5.Authoring test automation scripts for CRM and ERP processes
+                                       built on Salesforce and NetSuite technology, respectively.
 
 - 🌱 I’m currently learning **Frameworks Automation Tools**
 
