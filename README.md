@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulvd&label=Profile%20views&color=0e75b6&style=flat" alt="Chidanandha" /> </p>
 
 - 🔭 I’m currently working on a Company:Techisor
-                                 Job Role: Manual and Automation Tester
-                                 key Responsibilities:
+                                  <p> Job Role: Manual and Automation Tester </p> 
+                                 <p>  key Responsibilities: </p> 
                                     <p> 1.Test planning and Execution.</p>
                                       <p> 2.Develop and execute test plans, test cases, and test scripts to
                                        ensure the functionality, reliability. </p> 
