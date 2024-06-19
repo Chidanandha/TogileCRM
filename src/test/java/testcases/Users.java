@@ -18,8 +18,8 @@ public class Users extends Basetest{
 		
 		System.out.println("Click is successfull");
 	    Thread.sleep(3000);
-		driver.findElement(By.xpath(loc.getProperty("mailid_field"))).sendKeys("testparag1@gmail.com");
-        driver.findElement(By.xpath(loc.getProperty("password_field"))).sendKeys("Testparag1@gmail.com");
+		driver.findElement(By.xpath(loc.getProperty("mailid_field"))).sendKeys(".com");
+        driver.findElement(By.xpath(loc.getProperty("password_field"))).sendKeys(".com");
 		driver.findElement(By.xpath(loc.getProperty("login_button"))).click(); //login button
 		System.out.println("login is successfully done");
         Thread.sleep(3000);
